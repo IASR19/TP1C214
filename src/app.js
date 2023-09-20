@@ -57,5 +57,3 @@ function deleteTask(index) {
 }
 
 updateTaskList();
-
-module.exports = {addTask, updateTaskList, updateTaskStatus, deleteTask, tasks}; 
